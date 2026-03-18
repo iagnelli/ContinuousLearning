@@ -7,6 +7,7 @@
 # §1 — What is PMO
 
 <details>
+
 ## 1) Sintesi smart
 
 Il **PMO (Project Management Office)** è una funzione centrale che definisce standard, metodi e coordinamento per la gestione dei progetti all’interno dell’organizzazione.
