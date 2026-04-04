@@ -35,6 +35,47 @@ Component Description
 2
 3
 
+<details>
+
+ Certo — ecco il template **già compilato** con risposte pronte da copiare nel documento. Basato sul template caricato e sui contenuti dei paragrafi che abbiamo sintetizzato.     
+
+## Step 1: Identify the key functions of a traditional PMO
+
+| Key function                                 | Description                                                                                                                                                                                                                                                                |
+| -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1. Project support**                       | The traditional PMO provides standardized tools, templates, and methodologies to help project teams work consistently and efficiently. At TechInnovate, this is important because it creates structure, reduces confusion, and improves execution quality across projects. |
+| **2. Governance and performance monitoring** | The PMO establishes policies, standards, and procedures, and monitors projects against KPIs such as schedule, budget, and scope. At TechInnovate, this supports project success by increasing control, transparency, and accountability.                                   |
+| **3. Resource management**                   | The PMO helps allocate and manage resources such as people, budget, and technology across projects. At TechInnovate, this is important because it improves resource utilization and helps critical initiatives receive the support they need.                              |
+
+---
+
+## Step 2: An SRO addressing the limitations of the traditional PMO
+
+The focus of the **SRO** differs from that of the traditional **PMO** because it is centered on **strategic alignment and outcome realization**, rather than mainly on project execution and process control.
+
+**Strategic alignment:**
+A traditional PMO focuses on delivering projects correctly, but it may not ensure that projects are strongly connected to business priorities. The SRO addresses this limitation by making sure that all projects and programs directly support TechInnovate’s strategic objectives. This reduces the risk of investing in initiatives that are well managed but not strategically relevant.
+
+**Cross-functional collaboration:**
+Traditional PMOs can become siloed and process-heavy, with limited collaboration across departments. The SRO addresses this by acting as a bridge between executive leadership and delivery teams, improving coordination across functions and ensuring projects complement each other instead of working in isolation.
+
+**Outcome-oriented prioritization:**
+A traditional PMO often emphasizes time, cost, and scope. The SRO shifts the focus toward strategic outcomes by prioritizing projects based on their contribution to long-term goals. At TechInnovate, this helps the company become more agile and better able to respond to changes in a complex and competitive market.
+
+---
+
+## Step 3: Develop a value-focused governance framework for the VRO
+
+| Component                                           | Description                                                                                                                                                                                                                                                       |
+| --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1. Value metrics and benefit definition**         | The framework should define value-based success measures such as ROI, customer satisfaction, market share growth, and employee impact. This ensures TechInnovate evaluates projects not only by delivery performance but by the business value they generate.     |
+| **2. Continuous value monitoring and optimization** | The VRO framework should regularly review whether projects are delivering their expected benefits and make adjustments when needed. This may include reallocating resources, refining project scope, or reprioritizing initiatives to maximize value realization. |
+| **3. Performance monitoring and reporting**         | The framework should include reporting mechanisms that track both realized value and strategic performance over time. This gives leadership clear visibility into which initiatives are delivering strong returns and which require corrective action.            |
+
+Se vuoi, nel prossimo messaggio te lo trasformo anche in una versione **più naturale e meno scolastica**, così sembra meno “template riempito” e più risposta personale da studentessa senior.
+
+</details>
+
 
 ## Step 4: Exemplar
 After completing the activity, download the exemplar to compare your answers and track how well you’ve done.  
