@@ -1,6 +1,4 @@
-# Module 1 — Paragraph Summary
-
-## What Is a PMO?
+# What Is a PMO?
 
 ## 1. Core idea in one sentence
 
