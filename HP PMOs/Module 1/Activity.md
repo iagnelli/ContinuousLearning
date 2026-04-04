@@ -10,6 +10,60 @@ Note that this activity is a practice exercise you must complete independently. 
 A large multinational company, TechInnovate, is undergoing a massive digital transformation. To set themselves up for success, they must establish PMOs. The company operates in over 30 countries and there are over 50,000 people working in TechInnovate. The 120 projects identified for the digital transformation initiative range from upgrading legacy systems to implementing new enterprise resource planning (ERP) solutions to developing AI-driven products and enhancing cybersecurity measures. The projects vary in complexity, scope, and impact on the organization, with some being global in scale and others focused on specific markets and regions. TechInnovate also operates in a highly regulated environment. 
 Let’s explore more about what a healthy PMO is and what type of PMO best benefits TechInnovate.
 
+<details>
+  ## Answer template for Activity: PMO assessment
+
+### Step 1: Identifying potential types of PMOs for TechInnovate's digital transformation
+
+Based on the TechInnovate scenario, five potential PMO types that could be appropriate are:
+
+1. **Supportive PMO**
+2. **Controlling PMO**
+3. **Directive PMO**
+4. **Hybrid PMO**
+5. **Enterprise PMO (EPMO)**
+
+---
+
+### Step 2: Comparing PMOs
+
+| Type of PMO               | Characteristics                                                                                                          | Advantages                                                                                                                             | Potential Disadvantages                                                                               |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| **Supportive PMO**        | Provides templates, best practices, coaching, and knowledge sharing; low level of control                                | Encourages collaboration, supports learning, gives flexibility to project teams                                                        | May be too weak for complex, high-risk, highly regulated transformation programs                      |
+| **Controlling PMO**       | Enforces standards, methodologies, reporting, compliance checks, and governance rules                                    | Improves consistency, predictability, compliance, and risk control                                                                     | Can be perceived as bureaucratic and may slow teams if applied too rigidly                            |
+| **Directive PMO**         | Directly manages projects, assigns project managers, centralizes decisions, and maintains strong oversight               | Strong accountability, fast issue escalation, high control over critical initiatives                                                   | Can reduce local autonomy and may be resource-intensive                                               |
+| **Hybrid PMO**            | Combines different PMO styles depending on project type, region, or strategic importance                                 | Flexible, scalable, and adaptable to mixed project complexity across the organization                                                  | More difficult to design and govern consistently if roles are unclear                                 |
+| **Enterprise PMO (EPMO)** | Operates at enterprise level, aligns portfolio with strategy, coordinates governance across business units and countries | Strong strategic alignment, enterprise-wide visibility, better portfolio prioritization, suitable for large multinational environments | May become complex to manage and can feel distant from local project realities if not well integrated |
+
+---
+
+### Step 3: The PMO for TechInnovate
+
+The **best-suited PMO for TechInnovate is a Hybrid Enterprise PMO model**, with a strong **Controlling/Directive core**.
+
+### Justification
+
+TechInnovate is a **large multinational company** operating in more than 30 countries, with more than 50,000 employees and **120 transformation projects** of very different sizes, scopes, and strategic importance. A simple Supportive PMO would not be strong enough for this context.
+
+A **Hybrid Enterprise PMO** is the best fit because it allows TechInnovate to balance **strategic control and operational flexibility**:
+
+* An **Enterprise PMO layer** would provide overall portfolio governance, strategic alignment, resource prioritization, and executive visibility across the full transformation.
+* A **Controlling PMO approach** would ensure standardization, compliance, reporting consistency, and risk management, which are essential in a **highly regulated environment**.
+* A **Directive PMO approach** would be appropriate for the most critical global initiatives, such as ERP implementation, cybersecurity, and AI-driven transformation, where tighter central control and faster decision-making are needed.
+* A lighter, more **Supportive approach** could still be used for smaller regional or lower-risk projects.
+
+### Final conclusion
+
+TechInnovate should not rely on a single PMO style. Its scale, regulatory exposure, and project diversity require a **Hybrid Enterprise PMO** that combines:
+
+* **enterprise-level strategic governance**
+* **controlling discipline for compliance and consistency**
+* **directive leadership for the highest-priority projects**
+
+This model would give TechInnovate the best chance of achieving **global alignment, delivery control, regulatory compliance, and successful digital transformation**.
+
+</details>
+
 ## Step 1: Identify potential types of PMO's for Techinnovate's Digital Trasformation
 Based on the TechInnovate scenario, list five potential types of PMOs that might be an appropriate fit.  
 
