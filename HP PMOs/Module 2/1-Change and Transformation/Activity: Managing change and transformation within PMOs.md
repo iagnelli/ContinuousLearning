@@ -82,5 +82,31 @@ Flexibility and resilience are critical in PMO-led change because large-scale tr
 These qualities enhance transformation success because they protect both continuity and relevance. A flexible PMO can respond to new business needs, technological change, or feedback from teams, which helps keep the transformation aligned with reality rather than locked into outdated assumptions. A resilient PMO helps maintain momentum when obstacles arise, whether those are implementation issues, stakeholder resistance, or competing priorities. Together, they make the transformation more sustainable: flexibility ensures the PMO can adjust the path, while resilience ensures it does not abandon the destination.
 In a large-scale transformation like TechInnovate’s, this is especially important because the PMO is evolving from a traditional control-oriented structure into one that must also be agile and business-connected. That shift requires not only new processes, but also a different mindset. Flexibility helps the PMO experiment, refine, and respond faster. Resilience helps leaders and teams stay engaged through uncertainty and continue supporting the transformation even when results are not immediate. In short, these qualities increase the likelihood that transformation becomes a lasting organizational improvement rather than a disrupted change initiative.
 
+.
+**Question 2
+Which of the following is an example of transformation at TechInnovate?**
+
+**A- Transitioning the entire PMO to an agile way of working across all departments
+Correct**
+That’s correct. This represents a comprehensive rethinking of how the organization operates.
+
+B-Implementing a pilot – a new AI-driven product for one department.
+
+C-Introducing a new training program for Project Managers.
+
+D-Upgrading the project management software to improve workflow.
+
+Use this rule:
+Transformation = broad, strategic, organization-wide shift in how the company operates.
+Change = narrower improvement, pilot, training, or tool upgrade.
+So the best choice will be the one that describes an enterprise-wide shift to a new operating model, not a local initiative or software improvement.
+
+**Question 3**
+**True or False: Building resilience in program management is about the ability to recover from disruptions, while flexibility allows for adjustments to be made to plans or resources in response to change.** 
+
+**True
+Correct**
+That’s correct. Building resilience involves the ability to adapt to changes while keeping projects aligned with strategic objectives.
 
 
+False
