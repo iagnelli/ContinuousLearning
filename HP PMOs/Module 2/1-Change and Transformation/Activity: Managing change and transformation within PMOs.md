@@ -77,7 +77,10 @@ The insights gained from this activity will help you understand how a PMO can be
 ## Self-review
 Reflect on the activity you have completed and evaluate your progress by answering the following questions.  
 
-
+**Reflect on the importance of flexibility and resilience in managing change within a PMO. How can these qualities enhance the success of a large-scale transformation?**
+Flexibility and resilience are critical in PMO-led change because large-scale transformation rarely unfolds exactly as planned. A PMO may start with a clear roadmap, but during execution priorities can shift, dependencies can change, resistance can emerge, and external pressures can force rapid adjustments. In this context, flexibility allows the PMO to adapt its plans, timelines, resource allocation, and governance approach without losing sight of the strategic objective. Resilience allows the PMO and its stakeholders to recover from setbacks, absorb pressure, and continue moving forward despite disruption.
+These qualities enhance transformation success because they protect both continuity and relevance. A flexible PMO can respond to new business needs, technological change, or feedback from teams, which helps keep the transformation aligned with reality rather than locked into outdated assumptions. A resilient PMO helps maintain momentum when obstacles arise, whether those are implementation issues, stakeholder resistance, or competing priorities. Together, they make the transformation more sustainable: flexibility ensures the PMO can adjust the path, while resilience ensures it does not abandon the destination.
+In a large-scale transformation like TechInnovate’s, this is especially important because the PMO is evolving from a traditional control-oriented structure into one that must also be agile and business-connected. That shift requires not only new processes, but also a different mindset. Flexibility helps the PMO experiment, refine, and respond faster. Resilience helps leaders and teams stay engaged through uncertainty and continue supporting the transformation even when results are not immediate. In short, these qualities increase the likelihood that transformation becomes a lasting organizational improvement rather than a disrupted change initiative.
 
 
 
