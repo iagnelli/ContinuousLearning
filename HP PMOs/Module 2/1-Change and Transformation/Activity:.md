@@ -18,7 +18,6 @@ Key function Description
 2
 3
 
-
 ## Step 2: Addressing the limitations of the traditional PMO
 Write down how the focus of the SRO differs from that of the PMO. Under each point, provide an explanation of how these differences address the limitations of the traditional PMO model. Consider areas such as strategic alignment, cross-functional collaboration, and outcome-oriented project prioritization.
 
