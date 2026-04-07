@@ -1,8 +1,9 @@
 **Question 1**
 True or False: Effective resource management and allocation ensure that all team members have allocated work and are constantly busy.  
 
-True
+True 
 Uncorrect
+
 **False**
 Correct
 That’s correct. Effective resource management and allocation aim to ensure optimal resource utilization by creating a smooth flow of work. 
