@@ -34,7 +34,8 @@ PMO maturity models are only applicable to large organizations.
 Higher maturity levels always indicate higher project success rates.  
 
 **PMO maturity models provide a framework for assessing the current state of a PMO.**  
-Correct
+Correct. That's correct. PMO maturity models provide a framework for assessing a PMO's current state and help identify areas for improvement in PMO practices.  
+
 
 **Question 4**
 Which of the following are key components of effective resource management and allocation? Select all that apply.  
@@ -65,6 +66,4 @@ Minimizes project risks
 **Supports the achievement of long-term goals**  
 Correct
 That's correct. Aligning projects with organizational strategy ensures that every project undertaken contributes to the organization's long-term goals and strategic objectives, maximizing the strategic impact of investments.   
-
-
-That's correct. Aligning projects with organizational strategy ensures that every project undertaken contributes to the organization's long-term goals and strategic objectives, maximizing the strategic impact of investments.   
+ 
