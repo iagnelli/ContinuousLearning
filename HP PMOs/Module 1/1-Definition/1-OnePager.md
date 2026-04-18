@@ -96,4 +96,20 @@ Con un PMO forte → controllo, visibilità, valore
 
 
 
-Mandami pure il **Modulo 2**.
+## English – interview version
+
+“From my perspective, a PMO is not just a reporting or administrative layer. It is the function that creates structure, governance, and consistency across projects, while also ensuring alignment with business priorities. A strong PMO improves execution discipline, resource visibility, stakeholder coordination, and ultimately helps translate project delivery into measurable business value.” 
+
+## Italiano – versione colloquio
+
+“Dal mio punto di vista, il PMO non è solo un livello amministrativo o di reporting. È la funzione che crea struttura, governance e coerenza tra i progetti, garantendo anche l’allineamento con le priorità di business. Un PMO solido migliora la disciplina esecutiva, la visibilità sulle risorse, il coordinamento degli stakeholder e contribuisce a trasformare la delivery in valore misurabile per l’organizzazione.” 
+
+## Versione ancora più corta
+
+**English:**
+“A mature PMO combines governance and strategic alignment: it standardizes execution, improves coordination, and ensures projects deliver real business value.” 
+
+**Italiano:**
+“Un PMO maturo unisce governance e allineamento strategico: standardizza l’esecuzione, migliora il coordinamento e assicura che i progetti generino reale valore business.” 
+
+Se vuoi, dal prossimo modulo aggiungo sempre anche il blocco **“Interview version”**.
