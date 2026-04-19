@@ -1,3 +1,93 @@
+
+Sì, **è utile**. Ma non nel senso “studio ITIL e poi ritrovo tutto identico in ServiceNow”.
+
+Il punto è questo:
+
+**ITIL ti dà i paradigmi.**
+**ServiceNow implementa pezzi operativi di quei paradigmi.**
+
+Quindi il legame c’è, ma **non è automatico né perfetto**.
+
+Nel tuo caso, da come lo descrivi, ServiceNow sembra usato soprattutto come:
+
+* contenitore di richieste/commesse/progetti
+* workflow approvativi
+* service request operative
+
+Questo significa che **alcuni paradigmi ITIL ci sono**, ma spesso in forma **parziale o strumentale**.
+
+Quelli che probabilmente ritrovi già:
+
+* **request fulfilment / service request management**
+* **workflow e approvazioni**
+* **tracciabilità**
+* **smistamento verso gruppi competenti**
+* **standardizzazione minima di passaggi**
+
+Quelli che potresti **non vedere ancora bene** o vedere solo in parte:
+
+* **service value system**
+* **value stream**
+* **practice integration**
+* **change enablement come disciplina vera**
+* **continual improvement**
+* **knowledge management maturo**
+* **ownership chiara end-to-end**
+* **esperienza utente del servizio, non solo evasione ticket**
+
+Quindi la risposta vera è:
+
+**sì, la teoria ti serve perché ti aiuta a capire se il tool sta solo facendo transitare richieste oppure se sta davvero supportando un modello di service management più maturo.**
+
+In altre parole:
+
+* il tool può avere flussi
+* ma **flusso ≠ pratica ITIL ben implementata**
+
+Un flusso ServiceNow può essere:
+
+* corretto tecnicamente
+* utile operativamente
+* ma comunque **povero** dal punto di vista ITIL, se manca logica di servizio, ownership, knowledge, miglioramento, governance del cambiamento
+
+La domanda giusta da farti, mentre studi, è questa:
+
+**questo flusso implementa solo un passaggio operativo o riflette davvero una practice di service management?**
+
+Esempi concreti:
+
+**Service request licenze / networking / DBA**
+Qui Coursera ti serve perché puoi chiederti:
+
+* la richiesta è solo instradata o è anche **classificata bene**?
+* esiste una **knowledge base**?
+* ci sono **SLA / priorità / categorie coerenti**?
+* il servizio è pensato end-to-end o solo come ticket routing?
+
+**Workflow approvativi su commesse/progetti**
+Qui il legame con ITIL è più debole e più ibrido.
+ServiceNow può gestire il processo, ma ITIL ti aiuta a chiederti:
+
+* che valore di servizio abilita questo flusso?
+* chi è owner?
+* dove stanno i colli di bottiglia?
+* cosa è standard, cosa è eccezione?
+* come si misura il miglioramento?
+
+Quindi, in sintesi:
+
+**la teoria Coursera è utile non perché ti insegna “come usare ServiceNow”, ma perché ti dà una lente per capire quanto i flussi che vedi siano davvero service management e quanto siano solo workflow digitalizzati.**
+
+La frase più importante è questa:
+
+**ServiceNow può implementare i meccanismi. ITIL ti aiuta a valutarne la maturità.**
+
+Se vuoi, nel prossimo messaggio ti faccio una **mappa semplice: modulo ITIL → cosa puoi osservare nel tuo ServiceNow**.
+
+
+
+
+
 No, **non devi finire tutta la Foundation**.
 
 Per commentare bene su LinkedIn ti basta arrivare a un punto in cui hai già chiari almeno questi blocchi:
