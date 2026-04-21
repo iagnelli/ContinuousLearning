@@ -1,16 +1,16 @@
 
-A livello bancario DORA è la base principale per **digital operational resilience / ICT risk / incidenti ICT / testing / third-party ICT risk**, e si applica anche alle (**credit institutions (banche)**)[https://www.centralbank.ie/regulation/digital-operational-resilience-act-dora/dora---frequently-asked-questions?utm_source=chatgpt.com].
+A livello bancario DORA è la base principale per **digital operational resilience / ICT risk / incidenti ICT / testing / third-party ICT risk**, e si applica anche alle (credit institutions anche dette banche)[https://www.centralbank.ie/regulation/digital-operational-resilience-act-dora/dora---frequently-asked-questions?utm_source=chatgpt.com].
 
 Però **non esaurisce l’intero quadro bancario**.
 Per una banca restano anche:
 
-* il **quadro di vigilanza nazionale** riallineato, per esempio la **Circolare 285 aggiornata**, che nel 2026 modifica il Capitolo 4 “Il sistema informativo” e il Capitolo 5 “La continuità operativa” proprio per assicurare coerenza con DORA; ([Banca d'Italia][2])
-* le **EBA Guidelines**, che nel 2025 sono state **amendate** per evitare sovrapposizioni con DORA, quindi non spariscono ma si restringono/riallineano. ([Autorità Bancaria Europea][3])
+* il **quadro di vigilanza nazionale** riallineato, per esempio la **Circolare 285 aggiornata**, che nel 2026 modifica il Capitolo 4 “Il sistema informativo” e il Capitolo 5 “La continuità operativa” proprio per assicurare coerenza con DORA; (Banca d'Italia)[https://www.bancaditalia.it/compiti/vigilanza/normativa/archivio-norme/circolari/c285/aggiornamenti/Atto-di-emanazione-del-51-aggiornament.pdf?utm_source=chatgpt.com]
+* le **EBA Guidelines**, che nel 2025 sono state **amendate** per evitare sovrapposizioni con DORA, quindi non spariscono ma si restringono/riallineano. (Autorità Bancaria Europea)[https://www.eba.europa.eu/publications-and-media/press-releases/eba-amends-its-guidelines-ict-and-security-risk-management-measures-context-dora-application?utm_source=chatgpt.com]
 
 Quindi la formula giusta è:
 
 **DORA = quadro principale ICT/resilienza digitale**
-**285 aggiornata + EBA = strato bancario/supervisory complementare**. ([Autorità Bancaria Europea][3])
+**285 aggiornata + EBA = strato bancario/supervisory complementare**. 
 
 Tradotto per il tuo studio:
 
