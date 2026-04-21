@@ -5,7 +5,7 @@
 
 ## NIST - X
 
-
+## Circolare 285 
 
 Continuous Learning modules
 Il fatto che tu sia passata a **Gaming Platform & Compliance Manager** è già un cambio “da senior-track” (ownership, rischio, regolatorio, stakeholder), ma se “non riesco” vuol dire quasi sempre una di queste 3 cose:
