@@ -1,3 +1,6 @@
+## Normativa del 2013
+[2013](https://www.bancaditalia.it/compiti/vigilanza/normativa/archivio-norme/circolari/c285/Circ285_testo-integrale-al-38-agg.pdf?utm_source=chatgpt.com)
+
 **non è obsoleta**.
 È una circolare **nata nel 2013**, ma è stata **aggiornata molte volte** e proprio nel **2026** ha avuto il **51° aggiornamento** per allinearsi a **DORA** e alla relativa direttiva. ([Banca d'Italia][1])
 
