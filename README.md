@@ -1,6 +1,13 @@
 # ContinuousLearning
-Continuous Learning modules
 
+## HP PMO - 1
+
+
+## NIST - X
+
+
+
+Continuous Learning modules
 Il fatto che tu sia passata a **Gaming Platform & Compliance Manager** è già un cambio “da senior-track” (ownership, rischio, regolatorio, stakeholder), ma se “non riesco” vuol dire quasi sempre una di queste 3 cose:
 
 1. **Non è chiaro *che cosa* ti manca per essere percepita Senior** (criteri impliciti).
