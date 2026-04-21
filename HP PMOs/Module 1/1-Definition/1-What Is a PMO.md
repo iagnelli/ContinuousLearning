@@ -2,7 +2,7 @@
 
 ## 1. Core idea in one sentence
 
-A **PMO (Project Management Office)** is the **central structure that creates order, alignment, control, and value across projects**, so teams do not work in silos and organizational goals are achieved more effectively. 
+A **PMO (Project Management Office)** is the **central structure that creates order, alignment, control, and value across projects**, so teams do not work in **silos** and **organizational goals** are achieved more effectively. 
 
 ---
 
