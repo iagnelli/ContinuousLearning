@@ -1,4 +1,4 @@
-# Masterclass on digital payments
+# CFTE Payments Online Masterclass
 
 Enroll for free
 https://my.cfte.education/courses/Payments-Masterclass#:~:text=With%20this%20free%20payments%20masterclass,QR%20codes%2C%20crypto%20to%20CBDCs.
