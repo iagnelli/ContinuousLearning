@@ -200,7 +200,7 @@ Da approfondire:
 
 **Fonti principali**
 
-- [Banca d’Italia – Verso la revisione della PSD2](https://www.bancaditalia.it/compiti/sispaga-mercati/comitato-pagamenti-italia/CPI-Tavolo-Revisione-PSD2.pdf)
+- [Banca d’Italia – Verso la revisione della PSD2](https://github.com/iagnelli/ContinuousLearning/blob/a9a68049170f81051fceaca8df0dce37c97893e7/Digital%20payements/4-payment%20regulation/PSP2%20rev.md)
 - [EBA – Educational Seminars](https://www.abe-eba.eu/training-education/eba-summer-winter-schools-and-other-educational-seminars/)
 - [EBA – Strong Customer Authentication and secure communication](https://www.eba.europa.eu/legacy/regulation-and-policy/regulatory-activities/payment-services-and-electronic-money-0)
 - [European Central Bank – Instant Payments Regulation](https://www.ecb.europa.eu/paym/retail/instant_payments/html/instant_payments_regulation.en.html)
