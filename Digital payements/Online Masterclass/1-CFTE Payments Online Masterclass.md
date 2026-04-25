@@ -137,6 +137,51 @@ ChtGPT
 
 
 
+# CFTE MASTERCLASS
+
+Speaker: Ritesh Jain (Co-founder Infynit)
+- Former COO - HSBC
+- Advisor G20, GPFI, MIT, HBR
+- Former Portfolio Manager - VISA
+
+---
+
+Payments are the **underdog of finance**
+
+Frase semplice per i tuoi appunti:
+> Payments have often been seen as a back-office utility, but they are now becoming a **strategic entry** > > point into the broader financial ecosystem.
+
+In italiano: da funzione tecnica a leva strategica
+> I pagamenti sembravano solo una funzione tecnica per trasferire denaro, ma oggi sono diventati una > leva strategica per entrare nella **relazione finanziaria con clienti e merchant**.
+
+
+## Course Overview
+
+| Chapter Num. | Title                     |
+| -----------: | ------------------------- |
+|            1 | Understanding Payments    |
+|            2 | Payments - The Hot Topic  |
+|            3 | Reasons Behind the Growth |
+|            4 | Various Payment Methods   |
+
+
+
+## 1.Understanding Payments
+
+## 2.Payments - The Hot Topic 
+
+## 3.Reasons Behind the Growth 
+
+## 4.Various Payment Methods
+
+
+
+
+
+ 
+
+
+
 
 
 
