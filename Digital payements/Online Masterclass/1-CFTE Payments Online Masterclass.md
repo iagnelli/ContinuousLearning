@@ -1,30 +1,30 @@
 # CFTE Payments Online Masterclass
 
-Enroll for free
-https://my.cfte.education/courses/Payments-Masterclass#:~:text=With%20this%20free%20payments%20masterclass,QR%20codes%2C%20crypto%20to%20CBDCs.
+Enroll for free: 
 
-https://my.cfte.education/courses/take/Payments-Masterclass/lessons/29721136-introduction-by-the-cfte-team
+- https://my.cfte.education/courses/Payments-Masterclass#:~:text=With%20this%20free%20payments%20masterclass,QR%20codes%2C%20crypto%20to%20CBDCs.
+- https://my.cfte.education/courses/take/Payments-Masterclass/lessons/29721136-introduction-by-the-cfte-team
 
 
-Kanishka Joshi, Analyst at CFTE is a moderator of the session
+### Payment Online Masterclass — Key Summary
 
-Master class is brought to you by CFTE (Centre for Finance, Technology and Entrepreneurship), 
-global education platform that provide knowledge for Fintech to trive in the world of digital finance.
+The masterclass is moderated by **Kanishka Joshi**, Analyst at **CFTE — Centre for Finance, Technology and Entrepreneurship**, a global education platform focused on fintech and digital finance.
 
-CFTE deliver training and courses on important trends like AI, Open Banking, Entrepreneurship:
-- Fintech course Hong kong University
-- AI in Finance with Ngee Ann Polytechnic
+CFTE delivers training and courses on key industry trends such as **AI, Open Banking, Entrepreneurship and Fintech**. Its programmes are developed with more than **200 experts** from banks, insurance companies, fintech startups, investors and regulators, following a **“for the industry, by the industry”** approach.
 
-200 experts from banks, insurance, Fintech startups, investors and regulators -> 
-programs for the industry by the industry 
+Principal speaker: **Ritesh Jain**, co-founder of **Infynit**, a company focused on humanising the credit card experience and making it more user-centric.
 
-Ritesh Jain: co-founder of Infynit, they are driven to humanize the credit card experience
+Key message: **payments are one of the fastest-growing sectors in finance**. The scope of payments has expanded beyond traditional card transactions and bank transfers to include **digital payments, QR code payments, cryptocurrencies and CBDCs (Central Bank Digital Currencie)**.
 
-## How payments is the fastest growing sector of finance, has now widened to include digital payments, QR codes, 
-## criptocurrecies and cbdc.
+The core idea to remember is:
 
-Understand why payment is the Trojan horse of Finance
+> **Payments are the Trojan horse of finance.**
 
+This means that payments are often the first entry point through which fintech companies become part of users’ financial lives. Once they control the payment experience, they can expand into other financial services such as credit, lending, wallets, savings, insurance, loyalty programmes, data-driven services and digital banking.
+
+<details>
+
+## What made you choose CFTE?
 
 I chose **CFTE** for three practical reasons tied to **your goal**, not because it is “better in absolute terms.”
 
@@ -40,7 +40,6 @@ So the real answer is:
 **I chose CFTE because it is the easiest way for you to get fast, credible, low-cost payments fluency before moving into deeper technical and regulatory study.**
 
 My honest view:
-
 * **CFTE** = best **starting point**
 * **Coursera** = best **second step**
 * **EMVCo resources** = best **specialization layer** for your machine/device/payment acceptance context
@@ -59,4 +58,8 @@ Second, CFTE is clearly organized around **digital finance and payments as trans
 
 Third, CFTE gives you a **graduated path**: you can start with a free masterclass, then move to broader free masterclasses, and only later decide whether a deeper paid specialization is worth it. That ladder is useful because you are still exploring the topic and do not yet need to commit immediately to an expensive certification. ([Centro Finanza, Tecnologia e Imprenditorialità][1])
 
-## Where did you hear about CFTE courses?
+## Where did you hear about CFTE courses?*
+ChtGPT 
+</details>
+
+
