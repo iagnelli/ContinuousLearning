@@ -208,7 +208,7 @@ Le domande chiave da governare saranno:
 
 **Risorse principali**
 
-- [CFTE – Payments Online Masterclass](https://courses.cfte.education/payments-online-masterclass-free-digital-payments-course/)
+- [CFTE – Payments Online Masterclass (https://github.com/iagnelli/ContinuousLearning/blob/d86e9ff1a4a11c5a24c908cd49bf2b2050b66e5a/Digital%20payements/1.Online%20Masterclass/1-CFTE%20Payments%20Online%20Masterclass.md)
 - [Coursera – The Future of Payment Technologies](https://www.coursera.org/learn/paytech)
 - [Coursera – FinTech: Foundations, Payments, and Regulations](https://www.coursera.org/learn/wharton-fintech-overview-payments-regulations)
 
