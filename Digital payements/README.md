@@ -8,17 +8,78 @@ Il posizionamento da sviluppare è:
 
 > Program / Platform Manager con expertise in digital payments for regulated retail gaming.
 
-Non serve diventare “esperta bancaria pura”.  
-Serve capire come guidare un programma che combina:
+Nel contesto VLT/AWP, il pagamento digitale introduce una **doppia catena di controllo**:
+
+- la catena **bancaria/payments**, presidiata da Banca d’Italia, autorità europee, PSP/acquirer e standard di sicurezza come PCI;
+- la catena **gaming regolata**, presidiata da ADM/Sogei e dai laboratori di certificazione.
+
+La differenza chiave è questa:
+> Nel banking viene controllato il pagamento come operazione finanziaria; nel gaming viene controllato il credito di gioco e la sua corretta tracciabilità nel sistema regolato ADM.
+
+<details>
+
+**In ambito bancario / pagamenti**
+Il controllo è principalmente in capo a:
+Banca d’Italia, per vigilanza su banche, istituti di pagamento, istituti di moneta elettronica e sistema dei pagamenti.
+EBA / BCE / autorità europee, per framework europeo, PSD2/PSD3/PSR, SCA, instant payments, open banking.
+UIF, per la parte antiriciclaggio e segnalazioni di operazioni sospette. La UIF è collocata presso Banca d’Italia ma opera in autonomia e indipendenza.
+Quindi, se parliamo di pagamento come servizio finanziario, la logica è:
+Banca d’Italia / autorità europee / UIF.
+
+**Nel gioco pubblico regolato**
+Il controllo è principalmente in capo a:
+ADM – Agenzia delle Dogane e dei Monopoli, che presidia il settore dei giochi pubblici, tutela gli interessi erariali e governa la legalità del gioco.
+Sogei / sistema di controllo, per la parte tecnica di raccolta, trasmissione e controllo dei dati di gioco.
+Laboratori di certificazione, come GLI, per verifiche tecniche/certificative prima dell’autorizzazione.
+Quindi, se parliamo di giocata, credito sulla macchina, contatori, flussi ADM, VLT/AWP e rendicontazione di gioco, la logica è:
+ADM / Sogei / laboratorio di certificazione.
+
+</details>
+
+Per questo non serve diventare “esperta bancaria pura”.  
+Serve saper governare l’intersezione tra:
+
+- pagamento autorizzato
+- credito caricato sulla macchina
+- giocata
+- vincita / payout
+- contatori
+- accounting
+- riconciliazione
+- reporting verso ADM
+- sicurezza e responsabilità operative
+
+Il valore del ruolo è quindi guidare un programma che combina:
 
 - pagamenti digitali
 - hardware / terminali / acceptance
-- compliance
+- compliance e controlli ADM/regolatori
 - sicurezza
-- accounting e riconciliazione
+- accounting, riconciliazione e reporting verso autorità
 - operations su rete retail
 - impatti regolatori nel gaming
 
+### Postilla – Come avviene il controllo
+
+Nel mondo **bancario/payments**, il controllo riguarda la correttezza e sicurezza dell’operazione di pagamento:
+
+- autorizzazione del pagamento;
+- autenticazione del pagatore;
+- gestione del rischio frode;
+- ruolo di issuer, acquirer, PSP e circuiti;
+- protezione dei dati di pagamento;
+- settlement e riconciliazione finanziaria.
+
+Nel mondo **gaming regolato**, il controllo riguarda invece la coerenza tra pagamento, credito di gioco e dati regolatori:
+
+- credito effettivamente caricato sulla macchina;
+- giocata effettuata;
+- vincita o payout;
+- contatori di macchina e di sistema;
+- flussi verso ADM/Sogei;
+- tracciabilità, auditabilità e riconciliazione contabile.
+
+Il punto critico del progetto VLT/AWP è quindi la **riconciliazione tra pagamento autorizzato, credito caricato, dati di gioco, contatori e reporting ADM**.
 ---
 
 ## Perché è rilevante per il contesto VLT/AWP
