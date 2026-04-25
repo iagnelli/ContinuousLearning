@@ -404,8 +404,35 @@ Payment companies are powerful because they sit close to transaction flows and h
 ![DigitalAssets](1.10.png)
 
 <details>
- And an interesting fact, the best data is held by the payment companies. So when we look into the payments at banks, the card networks and i'm sure you herad quite a lot about the CBDCs. What does that really mean? Central Bank digital currency, because here at one hand, we talk about the Bitcoin and the multiple other digital currencies which are available in the market. So why central bank is after the digital currency, the reason is because central bank is focused around. We hear quite a lot about the central banks and their digital currencies. Central bank is focused on issuing the digital currency over the period of time, there are a lot many initiatives which are going on at the moment globally. 
+And an interesting fact, the best data is held by the payment companies. So when we look into the payments at banks, the card networks and i'm sure you herad quite a lot about the CBDCs. What does that really mean? Central Bank digital currency, because here at one hand, we talk about the Bitcoin and the multiple other digital currencies which are available in the market. So why central bank is after the digital currency, the reason is because central bank is focused around. We hear quite a lot about the central banks and their digital currencies. Central bank is focused on issuing the digital currency over the period of time, there are a lot many initiatives which are going on at the moment globally. 
+
+One of such project is focused around the cross border payments, that's called project, quite a few central banks came together and they're working on a platform infrastructure for cross border payments. But like that, like the central bank is basically managing the money. Now there are two parts, they issue the bank notes, which is the cash which is in rotation in the b2c landscape, as well as they look after the digital currency as well, for the E money in terms of the deposits, which is into b2b environment. The cbdc is a union of both. Now, there's a big question about the central bank digital currency, that what will be the feature of banks after the central bank digital currency, whether an individual will have direct relationship with the central bank in the money management, or whether it will be distributed to the bank. And it's a very interesting topic. And I've got that covered. One of my goals, and I'll talk you through that.
+
 </details>
+
+### Short mnemonic summary
+
+Payment companies hold very valuable data because they are close to transaction flows.
+
+**CBDC (Central Bank Digital Currency)** means digital money issued by a central bank.
+
+CBDCs are different from private digital assets like Bitcoin because they are issued and controlled by central banks.
+
+Central banks are exploring CBDCs to modernize money, improve payment infrastructure, and support areas such as **cross-border payments**.
+
+A CBDC could combine some features of cash used in **B2C (Business-to-Consumer)** payments and digital money used in **B2B (Business-to-Business)** environments.
+
+One key open question is the future role of banks: people may either interact directly with the central bank, or CBDCs may be distributed through commercial banks.
+
+### Ultra-short version
+
+**CBDC (Central Bank Digital Currency)** is digital central bank money.
+It is different from Bitcoin because it is official and issued by a central bank.
+CBDCs may improve digital and cross-border payments.
+The big question is whether banks will remain intermediaries or whether users will connect more directly with central banks.
+
+![DigitalAssets](1.11.png)
+
 
 ## 4.Various Payment Methods
 
