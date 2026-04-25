@@ -105,7 +105,6 @@ Circuito = Visa / Mastercard
 ### Nota – Merchant, PSP e acquirer
 
 Nel modello di pagamento digitale:
-
 - il **merchant** è il soggetto che incassa il pagamento;
 - il **PSP** abilita tecnicamente il pagamento tramite gateway, API, terminale o integrazione;
 - l’**acquirer** consente al merchant di accettare pagamenti carta e ricevere i fondi;
@@ -113,3 +112,27 @@ Nel modello di pagamento digitale:
 
 Nel contesto VLT/AWP, questi ruoli devono essere chiariti fin dall’inizio perché impattano responsabilità, compliance, flussi contabili, riconciliazione e controllo ADM.
 ```
+
+### Nota – Merchant, PSP, acquirer e issuer nel contesto VLT
+
+Nel caso di pagamento digitale su VLT, i ruoli possono essere letti così:
+
+- il **merchant** è il soggetto che incassa il pagamento del player, ad esempio il concessionario, l’operatore o il soggetto contrattualmente responsabile dell’incasso;
+
+- il **PSP** è il provider che abilita tecnicamente il pagamento digitale sulla VLT o sull’ecosistema collegato, tramite terminale, gateway, API, QR code, wallet o integrazione con la piattaforma;
+
+- l’**acquirer** è il soggetto che consente al merchant di accettare pagamenti con carta/contactless e di ricevere i fondi sul proprio conto, secondo le regole dei circuiti di pagamento;
+
+- l’**issuer** è la banca o istituto del player, cioè il soggetto che autorizza o rifiuta la transazione quando il player usa carta, wallet o altro strumento collegato al proprio conto.
+
+
+Esempio pratico VLT:
+1. Il player vuole caricare 20€ di credito sulla VLT.
+2. Usa carta/contactless, wallet o app.
+3. Il PSP gestisce tecnicamente la richiesta di pagamento.
+4. L’acquirer abilita l’accettazione della carta lato merchant.
+5. L’issuer del player autorizza o rifiuta il pagamento.
+6. Se il pagamento è autorizzato, il credito viene caricato sulla VLT.
+7. La piattaforma registra credito, giocata, contatori, accounting e flussi verso ADM/Sogei.
+
+Il punto critico è che il pagamento autorizzato non basta: nel gaming regolato deve essere riconciliato con il credito effettivamente caricato, la giocata, i contatori e il reporting ADM.
