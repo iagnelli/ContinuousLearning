@@ -198,7 +198,7 @@ flowchart TD
     
     X --> Y["9b. VLT / UI Player<br/>Messaggio di KO: pagamento non riuscito, credito non caricato"]
 
-
+```
 
 ### Lettura sintetica degli attori
 
