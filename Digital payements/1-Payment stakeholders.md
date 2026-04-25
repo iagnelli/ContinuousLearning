@@ -9,7 +9,7 @@ Certo. Pensa a una transazione carta/contactless su una VLT.
 Nel tuo caso potrebbe essere, a seconda del modello:
 
 ```markdown
-Merchant = concessionario / operatore / soggetto che incassa il pagamento
+Merchant = concessionario / operatore / POS / retailer / soggetto che incassa il pagamento
 ```
 
 Esempio semplice:
@@ -20,10 +20,9 @@ Esempio semplice:
 
 ### 2. Acquirer
 
-È **la banca o istituto che abilita il merchant ad accettare pagamenti con carta**.
+- è il soggetto autorizzato che consente al merchant di accettare pagamenti con carta/contactless e ricevere i fondi, secondo le regole dei circuiti di pagamento;
 
 L’acquirer:
-
 * apre il rapporto contrattuale con il merchant;
 * permette di accettare carte Visa/Mastercard ecc.;
 * riceve l’esito dai circuiti;
@@ -35,6 +34,37 @@ In parole semplici:
 ```markdown
 Acquirer = la “banca lato esercente” che consente al merchant di incassare pagamenti carta.
 ```
+
+Un esempio pratico di **acquirer** in Italia è **Nexi**.
+
+Nel suo sito, Nexi parla esplicitamente di **acquiring services** e di soluzioni per l’accettazione di pagamenti digitali, fisici e online da parte dei merchant. ([Nexi][1])
+
+### Esempio VLT
+
+```markdown
+Player paga 20€ con carta/contactless sulla VLT
+→ il merchant è il concessionario/operatore che incassa
+→ l’acquirer, ad esempio Nexi, abilita quel merchant ad accettare pagamenti carta
+→ il PSP/gateway gestisce tecnicamente il flusso della transazione
+→ l’issuer, cioè la banca del player, autorizza o rifiuta il pagamento
+→ se autorizzato, il credito viene caricato sulla VLT
+```
+
+Altri esempi di acquirer/payment provider da mappare sono **Worldline**, che ha una pagina italiana dedicata all’**Acquiring**, e **Adyen**, che opera come piattaforma pagamenti e acquiring in diversi mercati. ([Worldline][2])
+
+La distinzione pratica è:
+
+```markdown
+Nexi / Worldline / Adyen = possono svolgere ruolo di acquirer o payment provider, a seconda del contratto e del modello.
+Stripe / gateway / PSP = spesso percepiti come layer tecnico, ma alcuni possono offrire anche acquiring.
+Banca del player = issuer.
+Concessionario/operatore = merchant.
+```
+
+[1]: https://www.nexigroup.com/en/business/banks-and-financial-institutions/merchant-solutions-and-acquiring/?utm_source=chatgpt.com "Merchants and acquiring solutions"
+[2]: https://worldline.com/it-it/home/main-navigation/solutions/merchants/acquiring?utm_source=chatgpt.com "Acquiring | Worldline Italia"
+
+
 
 ---
 
