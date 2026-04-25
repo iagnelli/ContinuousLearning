@@ -358,9 +358,37 @@ Fintechs are transforming payments by offering ready-to-use payment services.
 Payments look simple for the customer, but many players operate behind the scenes.
 The payment ecosystem includes issuers, acquirers, gateways, processors and other providers.
 
-![Evolution](1.07.png)
+![Evolution](1.08.png)
 
 ## 3.Reasons Behind the Growth 
+
+<details>
+ Specifically today, there's one thing which we hear quite a lot. It's about the digital asset and the advent of the digital asset from 2009. And that is bitcoin, Yes, we have seen a significant moment in Bitcoin from early days, until today, which is hovering around $64,000 per Bitcoin. Yes, it's a significantly volatile as well. The price movements are volatile, but it's all due to the regulatory and the compliance as well. The lack of regulatory and compliance is today making this market volatile. 
+</details>
+
+### Short mnemonic summary
+
+A major topic in payments today is the rise of **digital assets**.
+
+The most famous example is **Bitcoin**, introduced in **2009**.
+
+Bitcoin has grown significantly over time, but its price is highly volatile.
+
+One reason for this volatility is the uncertainty around regulation and compliance.
+
+The digital asset market is still evolving, and clearer rules may help make it more stable.
+
+### Ultra-short version
+Digital assets became important after Bitcoin in 2009.
+Bitcoin has grown a lot, but it remains highly volatile.
+Regulatory and compliance uncertainty is one reason why this market is still unstable.
+
+![Evolution](1.09.png)
+
+<details>
+ I'm sure you can argue about the SEC is going ahead the ETF for the Bitcoin. Yes, that is happening. And I'm sure that will have a positive impact on the digital assets in the near tearm. So again, it's a very interesting part, which I really want to talk about. When we talk about payments, generally people consider payments as a card transaction, as the retail or the b2b transactions. Let me give you a view on the Citi and that's Citibank. Citibank has got a business unit called treasury and trade solutions. It's a very well known as City TTS. TTS forms 30% of Citi's business in terms of the global revenue. And that takes away 22% of Citi's global profits. So you would imagine a bank, a global bank, that 22% revenue just comes from the Treasury and trade solution business. And that just evolves and revolves around payments, and that is not even your co banking. On the other hand, when we talk about card networks, like Visa, likes of MasterCard, or the other payment card companies or the card network, general assumption is these card networks, their major revenue comes from the transaction, but let me clarify, only 1/3 of their value is from the card foundations. As I said earlier, there are a multiple value streams in payment, and what card networks and the other payment business have realesed is that the market is disrupting. So this already started focusing on the multiple value streams. And an interesting fact, the best data is held by the payment companies.  
+</details>
+I'm sure you can argue
 
 ## 4.Various Payment Methods
 
