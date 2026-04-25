@@ -16,8 +16,63 @@ Nel contesto VLT/AWP, il pagamento digitale introduce una **doppia catena di con
 La differenza chiave è questa:
 > Nel banking viene controllato il pagamento come operazione finanziaria; nel gaming viene controllato il credito di gioco e la sua corretta tracciabilità nel sistema regolato ADM.
 
+
+## Controllo del pagamento da parte dell’autorità
+
 <details>
 
+Il **controllo del pagamento da parte dell’autorità** ricade soprattutto in questi due punti:
+
+### 1. **Compliance**
+
+È il contenitore principale.
+
+Qui rientra il fatto che il pagamento digitale debba essere conforme a:
+
+* regole ADM
+* tracciabilità richiesta
+* requisiti autorizzativi/certificativi
+* vincoli su incasso, credito, payout, limiti e responsabilità
+* eventuali controlli su cosa può essere accettato dalla macchina e come
+
+Quindi: **se parli di “controllo dell’autorità”, la prima etichetta è compliance**.
+
+---
+
+### 2. **Accounting e riconciliazione**
+
+È il punto operativo più vicino al controllo effettivo.
+
+Perché l’autorità non “vede” solo il pagamento in sé, ma deve poter verificare che:
+
+* l’importo pagato sia correttamente registrato
+* il credito caricato sulla macchina sia coerente
+* i flussi contabili siano tracciati
+* i dati verso ADM/DWH/reporting siano riconciliabili
+* non ci siano disallineamenti tra pagamento, gioco, credito e rendicontazione
+
+Quindi: **se parli di controllo tramite dati, flussi e quadrature, la voce è accounting e riconciliazione**.
+
+---
+
+La risposta più corretta è:
+
+> Il controllo del pagamento da parte dell’autorità ricade principalmente in **compliance**, ma si concretizza operativamente in **accounting e riconciliazione**, perché l’autorità deve poter verificare tracciabilità, coerenza dei flussi e corretta rendicontazione.
+
+Nel README potresti rinominare così:
+
+```markdown
+- compliance e controlli ADM/regolatori
+- accounting, riconciliazione e reporting verso autorità
+```
+
+Così diventa molto più chiaro.
+
+</details>
+
+
+<details>
+  
 **In ambito bancario / pagamenti**
 Il controllo è principalmente in capo a:
 - **Banca d’Italia**, per vigilanza su banche, istituti di pagamento, istituti di moneta elettronica e sistema dei pagamenti.
@@ -34,6 +89,32 @@ Il controllo è principalmente in capo a:
 Quindi, se parliamo di **giocata, credito sulla macchina, contatori, flussi ADM, VLT/AWP e rendicontazione di gioco**, la logica è:
 **ADM / Sogei / laboratorio di certificazione.**
 
+Nel tuo caso VLT/AWP con pagamenti digitali
+Qui le due **filiere** si sovrappongono:
+
+| Oggetto controllato                               | Autorità / presidio principale                                                                              |
+| ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Pagamento con carta, wallet, A2A                  | Banca d’Italia / PSP / acquirer / schemi di pagamento                                                       |
+| Sicurezza dati carta                              | PCI SSC come standard, poi responsabilità operative dei soggetti coinvolti                                  |
+| Antiriciclaggio                                   | UIF + obblighi AML dei soggetti coinvolti, inclusi prestatori di servizi di gioco e intermediari finanziari |
+| Credito caricato sulla VLT/AWP                    | ADM / Sogei                                                                                                 |
+| Giocata, vincita, contatori, RTP, flussi di gioco | ADM / Sogei / certificazione                                                                                |
+| Riconciliazione tra pagamento e credito di gioco  | Punto di intersezione tra mondo payments e mondo ADM                                                        |
+| Conformità del modello operativo di gioco         | ADM                                                                                                         |
+</details>
+
+La frase chiave è questa:
+> Nel banking viene controllato il pagamento come operazione finanziaria; nel gaming viene controllato > il credito di gioco e la sua corretta tracciabilità nel sistema regolato ADM.
+> Per il README puoi scrivere così:
+
+
+Nel progetto VLT/AWP il pagamento digitale introduce una doppia catena di controllo:
+- la catena bancaria/payments, presidiata da Banca d’Italia, autorità europee, PSP/acquirer e standard PCI;
+- la catena gaming regolata, presidiata da ADM/Sogei e dai laboratori di certificazione.
+Il punto critico è la riconciliazione tra pagamento autorizzato, credito caricato sulla macchina, giocata, contatori, reporting e flussi ADM.
+
+
+<details>
 **PSP = Payment Service Provider**
 - soggetto che fornisce il servizio tecnico/operativo per accettare pagamenti digitali, in pratica **abilita e gestisce tecnicamente il pagamento digitale**
 - provider tecnologico che integra il pagamento digitale sulla macchina VLT o sulla piattaforma da gioco.
