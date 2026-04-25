@@ -20,7 +20,10 @@ Esempio semplice:
 
 ### 2. Acquirer
 
-- è il soggetto autorizzato che consente al merchant di accettare pagamenti con carta/contactless e ricevere i fondi, secondo le regole dei circuiti di pagamento;
+L’acquirer nasce storicamente nel perimetro bancario, ma oggi può essere anche un istituto di pagamento, un istituto di moneta elettronica o un payment provider autorizzato. La sua funzione è abilitare il merchant ad accettare pagamenti con carta/contactless e ricevere i fondi.
+
+- è il soggetto autorizzato, bancario o non bancario, che consente al merchant di accettare pagamenti con carta/contactless e ricevere i fondi, secondo le regole dei circuiti di pagamento;
+Quindi sì, ha una funzione finanziaria “lato merchant”, molto vicina al mondo bancario, ma non è necessariamente una banca né una sua appendice.
 
 L’acquirer:
 * apre il rapporto contrattuale con il merchant;
@@ -224,3 +227,46 @@ Se vuoi, nel prossimo messaggio ti preparo anche la versione **più professional
 - **catena bancaria**
 - **catena gaming**
 - **punto di riconciliazione**
+
+
+<details>
+Issuer = lato cliente/player
+Acquirer = lato merchant/esercente
+PSP = layer tecnico/operativo che fa funzionare il pagamento
+Merchant = soggetto che incassa
+
+Il concessionario/operatore è il merchant.
+L’acquirer abilita quel merchant ad accettare pagamenti carta/contactless.
+Il PSP integra tecnicamente il pagamento sulla VLT o sulla piattaforma.
+L’issuer autorizza o rifiuta il pagamento del player.
+
+
+```markdown
+Issuer = banca o istituto lato player/cliente.
+```
+
+È il soggetto che ha emesso lo strumento di pagamento usato dal player, per esempio:
+
+* carta di debito
+* carta di credito
+* carta prepagata
+* wallet collegato a carta/conto
+
+Nel flusso VLT:
+
+```markdown
+Player paga 20€ con carta/contactless
+→ l’issuer è la banca o istituto del player
+→ verifica fondi, limiti, rischio, autenticazione
+→ autorizza o rifiuta la transazione
+```
+
+Quindi la coppia mentale è:
+
+```markdown
+Issuer = lato player
+Acquirer = lato merchant / concessionario / operatore
+PSP = layer tecnico che orchestra il pagamento
+```
+
+</details>
