@@ -383,8 +383,6 @@ Digital assets became important after Bitcoin in 2009.
 Bitcoin has grown a lot, but it remains highly volatile.
 Regulatory and compliance uncertainty is one reason why this market is still unstable.
 
-![Evolution](1.09.png)
-
 <details>
 I'm sure you can argue about the SEC is going ahead the ETF for the Bitcoin. Yes, that is happening. And I'm sure that will have a positive impact on the digital assets in the near tearm. So again, it's a very interesting part, which I really want to talk about. When we talk about payments, generally people consider payments as a card transaction, as the retail or the b2b transactions. Let me give you a view on the Citi and that's Citibank. Citibank has got a business unit called treasury and trade solutions. It's a very well known as City TTS. TTS forms 30% of Citi's business in terms of the global revenue. And that takes away 22% of Citi's global profits. So you would imagine a bank, a global bank, that 22% revenue just comes from the Treasury and trade solution business. And that just evolves and revolves around payments, and that is not even your co banking. On the other hand, when we talk about card networks, like Visa, likes of MasterCard, or the other payment card companies or the card network, general assumption is these card networks, their major revenue comes from the transaction, but let me clarify, only 1/3 of their value is from the card foundations. As I said earlier, there are a multiple value streams in payment, and what card networks and the other payment business have realesed is that the market is disrupting. So this already started focusing on the multiple value streams. And an interesting fact, the best data is held by the payment companies.  
 </details>
@@ -404,6 +402,10 @@ Card networks such as Visa and Mastercard also do not rely only on card transact
 Payment companies are powerful because they sit close to transaction flows and hold very valuable data.
 
 ![DigitalAssets](1.10.png)
+
+<details>
+ And an interesting fact, the best data is held by the payment companies. So when we look into the payments at banks, the card networks and i'm sure you herad quite a lot about the CBDCs. What does that really mean? Central Bank digital currency, because here at one hand, we talk about the Bitcoin and the multiple other digital currencies which are available in the market. So why central bank is after the digital currency, the reason is because central bank is focused around. We hear quite a lot about the central banks and their digital currencies. Central bank is focused on issuing the digital currency over the period of time, there are a lot many initiatives which are going on at the moment globally. 
+</details>
 
 ## 4.Various Payment Methods
 
