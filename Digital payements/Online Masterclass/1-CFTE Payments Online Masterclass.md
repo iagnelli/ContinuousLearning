@@ -24,6 +24,50 @@ This means that payments are often the first entry point through which fintech c
 
 <details>
 
+Trojan hourse vuol dire **essere una porta d’ingresso nascosta o indiretta**.
+
+Nel contesto fintech:
+> **Payments are the Trojan horse of finance**
+> I pagamenti sono il “cavallo di Troia” della finanza.
+
+Significa che una fintech può entrare nella vita del cliente **partendo da un servizio semplice e quotidiano**, cioè il pagamento.
+Poi, una volta che il cliente usa quell’app o quel wallet per pagare, l’azienda può offrirgli altri servizi finanziari:
+
+**pagamenti → wallet → carta → credito → assicurazioni → investimenti → banking**
+
+Esempio pratico:
+Un’app nasce per farti pagare velocemente con QR code.
+
+Poi ti propone:
+* una carta digitale;
+* cashback;
+* prestiti;
+* conto deposito;
+* assicurazione.
+
+Quindi il pagamento è il primo aggancio.
+Non sembra “banca”, ma apre la strada a diventare una piattaforma finanziaria completa.
+
+Un esempio molto chiaro è **PayPal**.
+
+All’inizio nasce come servizio per **pagare online in modo semplice e sicuro**.
+
+Poi si è allargato a:
+
+**pagamenti online → wallet → carta → pagamento nei negozi → pagamento a rate → crypto → servizi per merchant**
+
+Quindi il pagamento è stato il punto di ingresso.
+L’utente entra per “pagare”, ma poi resta dentro un ecosistema finanziario più ampio.
+
+Frase per i tuoi appunti:
+
+> **PayPal is an example of payments as a Trojan horse: it started with online payments and expanded into wallets, cards, merchant services, buy now pay later and other financial services.**
+
+</details>
+
+
+<details>
+
 ## What made you choose CFTE?
 
 I chose **CFTE** for three practical reasons tied to **your goal**, not because it is “better in absolute terms.”
