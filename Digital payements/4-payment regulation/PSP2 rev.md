@@ -1,5 +1,8 @@
 # REVISIONE PSP2
 
+[Banca d’Italia – Verso la revisione della PSD2](https://www.bancaditalia.it/compiti/sispaga-mercati/comitato-pagamenti-italia/CPI-Tavolo-Revisione-PSD2.pdf)
+
+
 1. Il documento sintetizza i lavori del Tavolo CPI sulla **revisione della PSD2**, concentrandosi sulle **priorità del mercato italiano**: frodi, responsabilità degli attori, SCA, open banking, perimetro applicativo, moneta elettronica e coordinamento con altre normative sui pagamenti.
 
 2. scope **consultivo e di indirizzo**: raccoglie valutazioni tecniche e proposte condivise dall’ecosistema nazionale dei pagamenti, senza rappresentare una posizione vincolante per istituzioni o partecipanti.
