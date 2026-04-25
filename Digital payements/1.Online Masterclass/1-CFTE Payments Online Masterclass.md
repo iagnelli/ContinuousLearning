@@ -444,11 +444,78 @@ So, why central banks are involved with the dicital currency? Central banks are 
 
 ![DigitalAssets](1.12.png)
 
+![DigitalAssets](1.13.png)
+
 
 ## 3.Reasons Behind the Growth 
+<details>
+Yes we understand the payments. We understand the rationale. What is really happening, why there is so much growth and all thanks to tehcnology. And if I have to pick one thing, and that is mobile. Things have changed through mobile. If you can just look into this picture from 2010 to 2020, the mobile penetration in the market this specifically into the payments or banking transaction, it has changed dramatically. Number of transactions to the digital bank to the mobile banking or internet banking and UK market is far beyond the expectation. And that's a transformation that we have seen in last couple of years. And mobile is not only a channel, people use walk into the branch probably once a year, or a couple of times a year. Now, they rarely walk into a branch, because they walk with the bank. And thanks to the digital banks in the digital channels, they've got the services available on tap. Not only from the payments or the bank account, or the basic account services, but including the mortgages investments, or any other the needs, which are available to the mobile banking. So one thing which has really changed or tansformed the payment industry is the mobile. And the second thing is about the e-commerce, the adoption of e-commerce it has grown significantly. So with the growth in the Ecommerce 2007 2020. Payment growth was pulled by ecommerce growth. Especially form the Fintech perspective on the growth on conctactless payment. aND SO does the value stream as weel. It's a very interesting part, the minimum amount, we talk quite regularly about the minimum amount. And that's what I said earlier, if you had to make a 50 cent transaction or 50 pence transaction, you would look into change, you will just swipe your card or will just maybe a phone to make a payment. And these are previous news that you're seeing from the April 2017 that there was a view to impose a minimum transaction amount on a VISA credit card issued the US secretary so when we are talking about these minimum payments or the small payment or the small change, let me clarify this. There is a huge transformation that is going through at the moment and we are yet to see. And all thanks to the open banking, all thanks to the payments, innovation, and all thanks to the card networks as well. When we talk about the fee, why there was a difference into the minimum payments as well as a small change earlier because it used to occur or attract the transaction fee which has gone away because nowadays you can do account to account transfer, account to account payments. And on top of that, even for the merchants when you're buying something online. The merchants land up and pay a transaction fee called the MDR. That is the merchant discount rate. Let me clarify this again in certain regions are the certain economies are very clear and they have mandated that over the period of time, the merchant discount rate is going to be chaeap. So that they can fuel the growth in the digital payments adoption, and India is one of the country that is looking at the zero MDR over the period of time. So, now the question comes down to that how the payment company is going to make money so, the payment players started focusing on commoditizing merchants, they started creating the new value streams to generate revenue while providing services to the customers. And such examples are like Paytm foreign pay, they are just a few in India. And all thanks to the UPI which has fueled the growth into the whole payments landscape not only in India, UPI is basically unified payment interface. It has fueled the growth into the overall landscape in India. And it has influenced quite a lot of other projects globally including p27, and Nordics.     
+</details>
 
+### Short mnemonic summary
+
+The main driver of payment growth is technology, especially **mobile**.
+
+Mobile changed banking and payments because the bank is now always available on the phone. Customers visit branches less often and expect services “on tap”: payments, accounts, mortgages, investments, and other financial services.
+
+A second major driver is **e-commerce**, which increased the need for fast, easy, and digital payment methods.
+
+Contactless payments also changed small-value transactions. In the past, people used coins for small amounts; today they can pay small amounts with a card or phone.
+
+Payment fees are also changing. **MDR (Merchant Discount Rate)** is the fee paid by the merchant for accepting card or digital payments. In some markets, regulators want to reduce or eliminate **MDR (Merchant Discount Rate)** to support digital payment adoption.
+
+This creates a challenge for payment companies: if transaction fees go down, they need new revenue streams.
+
+In India, **UPI (Unified Payments Interface)** strongly accelerated digital payment adoption. It also influenced other payment projects globally, including **P27 (Nordic Payments Platform)** in the Nordic countries.
+
+### Ultra-short version
+Payment growth is driven by mobile, e-commerce, contactless, and open banking.
+Customers now expect instant and simple payment experiences.
+Lower fees, such as reduced MDR (Merchant Discount Rate), push payment companies to create new value streams.
+UPI (Unified Payments Interface) is a key example of how instant mobile payments can transform a market.
+
+![DigitalAssets](1.14.png)
+
+<details>
+So, this is a recent data. If you look into the top public payment companies revenue from the American Express to the Visa to PayPal and MasterCard and these are in billions they are growing at a rapid pace, I led the future of payments at VISA years back in 2011. We used to process 60 to 80 million transactions just in the European market. If you ask that number today, that has gone up exponentially, there is no relevance. So, these companies are growing at a rapid pace. And if you can see these are dominated by US. 
+</details>
+
+### Short mnemonic summary
+Large public payment companies such as American Express, Visa, PayPal, and Mastercard generate revenues in the billions.
+Their growth shows how important payments have become in the global financial sector.
+Transaction volumes have increased dramatically over time, especially in digital and card-based payments.
+Many of the largest payment companies are still dominated by the **US (United States)** market.
+
+### Ultra-short version
+Top payment companies are growing fast.
+Their revenues and transaction volumes show the scale of the payment industry.
+The sector is still strongly dominated by **US (United States)** companies.
+
+![DigitalAssets](15.png)
 
 ## 4.Various Payment Methods
+<details>
+It is really critical to understand what are payment methods and I'm pretty sure most of of you are using them day in and day out. Let's go through that. So the traditional payments like your cash check, why at once for demand drops, then cards, the card netbooks the Visa, Amex,Mastercard and the chip and pin came along the contactless the mobile payments, B2B. Now we are looking into the wallets and these re your the payment wallets, which are associated with your cards and accounts. Along with, you have got crypto wallets as well, which are available in the market, whether they are Etherium based or Bitcoin or any other cryptocurrencies. Then you have got the multiple alternatives as well. And the one of the most interesting is about the buy now pay later. Yes, you've got Apple Pay, you've got Google Pay, you got of variety of payment methods right. And thanks to open banking, your account transfer, you got RTP you got RFP and there are various other payment methods which are available. Over here you are seeing as a UPI, which is one of its own kind of national payment infrastructure built by NPCI National Payment Corporation of India and which has fueled the growth in the domestic payments in India. And now it has built up the partnerships in UAE and Singapore and going global. So when we talk about these alternative payment methods, they are growing. Now, as I said about the buy now pay later the umpteen examples around the Buy Now pay later companies like the cloud I enough to pay and many others. At the same time there's a consciousness around this buy now pay laters because they are not regulated yet. So the consciousness is around just there offering the frictionless customer experience at the checkout and getting a credit to a customer. But the credit gets built up very soon in a short period of time, and that might push customer into a debt cycle. Now we can discuss that, in contrast to the credit cards as well, because credit cards attracts the interest rastes, and they can push the people into the debt cycle as well. Yes, we can, we can talk about these two products. But at the same time, credit cards comes with its oen benefit as well. And they've got a restriction in terms of the credits available to the consumers. So let's not get into more detail about the individual product, but the umpteen products available in the market and the methods available in the market for consumer to make payments. And that is one more reason for all four payment companies are providers to provide various payment methods to the consumers. And that's why we have got Lexa, Stripe, likes of a Primer which has ended the payment orchestrator which is coming up into the market. So yes, we talk about the payments, we talk about financial services, we talk about banks. Yes, everyting evolves and revolves around payments.
+</details>
+
+### Short mnemonic summary
+Payment methods have expanded far beyond traditional instruments such as cash, cheques, drafts, and cards.
+Today, people can pay through card networks such as Visa, American Express and Mastercard, chip and PIN, contactless payments, mobile payments, wallets, crypto wallets, account transfers, and **BNPL (Buy Now Pay Later)** solutions.
+Thanks to open banking and payment innovation, new methods are growing, including **RTP (Real-Time Payments)**, **RFP (Request for Payment)**, and account-to-account payments.
+
+**UPI (Unified Payments Interface)**, built by **NPCI (National Payments Corporation of India)**, is a major example of national payment infrastructure that accelerated domestic digital payments in India and is now expanding internationally.
+
+Alternative payment methods are growing quickly, but some raise regulatory and consumer-protection concerns. For example, **BNPL (Buy Now Pay Later)** offers a frictionless checkout experience, but it can increase the risk of consumer debt if not properly managed.
+
+Because customers use many different payment methods, merchants and payment providers need solutions that integrate and orchestrate multiple options. This is why companies such as Stripe and payment orchestrators like Primer are becoming important.
+
+### Ultra-short version
+Payment methods now include cash, cards, contactless, mobile payments, wallets, crypto wallets, account transfers, **BNPL (Buy Now Pay Later)**, **RTP (Real-Time Payments)** and **RFP (Request for Payment)**.
+Customers expect many payment options.
+Merchants need providers and orchestrators that can manage them in one integrated payment experience.
+
+![DigitalAssets](1.16.png)
+
 
 
 
