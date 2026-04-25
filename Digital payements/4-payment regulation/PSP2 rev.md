@@ -12,9 +12,11 @@ Per il tuo obiettivo — capire i pagamenti digitali per VLT/AWP e costruire com
 
 **PSD2 + SCA (Strong Customer Authentication) + open banking + frodi + PSP/acquirer/issuer + instant payments + PCI/EMVCo.**
 
----
-
 **PSD3 esiste già come proposta normativa / pacchetto legislativo**, ma **non è ancora pienamente applicabile come normativa in vigore al posto della PSD2**.
+
+
+<details>
+<subject>PSD3 overview</subject>
 
 Ad oggi, 25 aprile 2026:
 
@@ -56,5 +58,8 @@ PSD3 è utile, ma non è il punto di partenza. Prima devi padroneggiare bene il 
 Quindi sì: studia pure le fonti già consigliate.
 Poi ci aggiungiamo noi una mini-sezione finale:
 > **“PSD2 review and transition to PSD3/PSR”**
-Così il tuo materiale resta aggiornato senza buttare via nulla.
-> ––_
+> Così il tuo materiale resta aggiornato senza buttare via nulla.
+>
+
+
+</details>
