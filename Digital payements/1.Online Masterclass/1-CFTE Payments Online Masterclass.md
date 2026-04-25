@@ -260,7 +260,66 @@ In the cross border payment the another transformation that we are seeing, as of
 
 ![Underdog](1.04.png)
 
+<details>
+ But let's look into what is really happening into the cross border payment (pagamento internazionale, chi paga e chi riceve sono in paesi diversi), and what are the challenges. 
+A cross-border payment is a payment where the payer and the receiver are located in different countries.
+**Cross-border payment** significa **pagamento transfrontaliero**.
+È un pagamento in cui **chi paga e chi riceve sono in Paesi diversi**.
+Esempi semplici:
+* mandi soldi dall’Italia a una persona in India;
+* un’azienda italiana paga un fornitore negli Stati Uniti;
+* compri online da un merchant inglese;
+* una società paga stipendi o fatture a collaboratori esteri.
+Di solito è più complesso di un pagamento domestico perché può coinvolgere:
+* banche di Paesi diversi;
+* valute diverse;
+* cambio valuta, cioè **FX / Foreign Exchange**;
+* commissioni;
+* tempi di regolamento;
+* controlli AML, cioè **Anti-Money Laundering**.
 
+Frase per appunti:
+> **A cross-border payment is a payment where the payer and the receiver are located in different countries.**
+
+The infrastructure is the major hurdle in the transformation. We need an infrastructure that integrates both with regional and global payment methods. Because the requirements of a customer whether it's a b2c or b2b, or both, so you have to cater to both the customers in a more efficient way. It's all about the various payment methods. Because obviously, as a, as a merchant, as a service provider, you do not want to interact with the multiple platforms on the service, you are looking for the consolidation. And basically, with that consolidation, what you are looking at the language in which the platform can speak to each other. And you must have heard about ISO 20022. Yes, that is what going to make a difference as well. Because then the platform and services and the systems are going to speak into the same languages. And that is going to lead an efficient transactions, it will reduce the number of failed transactions in the overall payment structure. Now when we talk about the data management, it's one of the most critical part into the cross border payment. The reason is, when you are managing the various payment methods, you do not want to interact with the various platform services and the data. And that's where the data management plays a significant role in the cost of funds actions, or the overall payment infrastructure. At the same time, transparency and trust. Once you lose a customer, you're not going to get them back. So you got to be a bit more trasparent and trustworthy. And these are the fundamentals for a better infrastructure for payments. And that's where the input and that's where the cross border payment infrastructure is moving towards.      
+
+</details>
+
+### Short mnemonic summary
+
+In **cross-border payments**, infrastructure is one of the main hurdles.
+
+Payment systems need to connect with both **regional** and **global** payment methods, because customers can be **B2C (Business-to-Consumer)** or **B2B (Business-to-Business)**.
+
+Merchants and service providers do not want to manage many separate platforms. They need consolidation, integration, and systems that can “speak the same language”.
+
+**ISO 20022 (International Organization for Standardization 20022)** can help because it creates a common financial messaging standard between platforms, services, and systems.
+
+Better standardization can improve efficiency and reduce failed transactions.
+
+Data management is also critical, because cross-border payments involve many payment methods, platforms, services, and data flows.
+
+Finally, transparency and trust are essential. If customers lose trust in a payment service, they may not come back.
+
+![Technological_evolution](1.05.png)
+
+<details>
+And what we have seen in the now Payment landscape specifically, there is a huge technology evolution. We have gone from the monolithic platform to the modern platform, which is like infrastructure code, it is an art and parcel. If you say all the platforms are, have adopted the cloud tehcnologies, that is not true. But we are looking into the future, where we will be looking at the container as a service, or even payments as a service. So, if you are a service provider, or if you are a financial institution or a bank, you don't need to build services, you can just get the payment as a service from the various service providers. And that's a major value stream. So the whole payment landscape is going though transformation.  
+</details>
+
+### Short mnemonic summary
+
+The payment landscape is going through a major technology transformation.
+
+Payment platforms are moving from **monolithic architectures** to more modern, modular and cloud-oriented platforms.
+
+Not all payment platforms have already adopted cloud technologies, but the direction is clear: more flexible infrastructure, **IaC (Infrastructure as Code)**, containers, and service-based models.
+
+In the future, banks, financial institutions and service providers may not need to build every payment capability internally.
+
+They will be able to use **PaaS (Payments as a Service)** solutions provided by specialized payment providers.
+
+![Underdog](1.05.png)
 
 
 ## 3.Reasons Behind the Growth 
