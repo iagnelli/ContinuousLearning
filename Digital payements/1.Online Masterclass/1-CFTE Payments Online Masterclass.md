@@ -206,7 +206,23 @@ Payments everywhere. You look into any news, any media, Linkedin news, anyywhere
 
 ## 2.Payments - The Hot Topic 
 
-<detaiils>
+### Short mnemonic summary
+
+- Payments have evolved over thousands of years.
+
+- The journey started with the **barter system** (baratto - Barter is the exchange of goods or services without using money. Fabric Vs. tools), then moved to **precious metals**, **coins**, **paper money**, **cards**, **e-commerce**, **contactless payments**, **fintech solutions**, **digital assets**, **e-wallets**, and finally **real-time payments**.
+
+- The biggest change in recent years is the speed of innovation: payments are becoming more digital, instant, mobile, and integrated into everyday services.
+
+- Real-time payments are now a major transformation area, with systems like faster payments in the UK and FedNow in the US.
+
+### Ultra-short version
+
+Payments evolved from barter to real-time digital payments.
+Each phase made money movement faster, easier, and more scalable.
+Today, the focus is on instant, digital, mobile, and frictionless payments.
+
+<details>
 Yes it is. Look into what happened over the period of time.
 - Barter system we have come from 9000 BC and then move on to Precious metal
 - Precious metal 1000 BC 
@@ -219,9 +235,33 @@ Yes it is. Look into what happened over the period of time.
 - And the evil wallets 2016
 - And the RTP 2017, and the request for payments, and the E IPP and the EB BB, and it's never ending.
 So it is growing at a rapid pace. We have come from the border system to the RTP. Today, and the real time payments, like UK has got the real time payments, the open market of the Fed now which is coming up in the US in 2023.
-There's a huge transformation in the real time payments landscape as well and start stopping anywhere. But when 
+There's a huge transformation in the real time payments landscape as well and start stopping anywhere. 
+</details>
+
+![The timeline](1.03.png)
+
+<details>
+But when you talk about the payments and the underdog Yes, that is one of the main reason we call payments as an underdog. The cross border payments have been neglected, neglected for too long. In a yearly basis, our 100 and 30 million transact across the globe. And most of the payment transcations are related to cross border payments. They still are was one payment infrastructure, not up to the mark. Yes, we can argue about Swift GPI. And we can argue about the various payment infrasctructure, which are evolving. Yes, there is a lot of transformation. Today, if you have to make a payment, you are not relying on to your bank to provide you the FX rate. And you are not just relying on the bank because there are umpteen partners out there who are providing you the competitive services. And that's what the difference that we have seen in the cross border payment whether it's retail, or b2b.
+In the cross border payment the another transformation that we are seeing, as of today, it's more about digitalization of the blockchain platforms as well. And that's great, it has caught a great potential. And I'm sure we are going to see that transformation sooner rather that later. But let's look into what is really happening into the cross border payment, and what are the challenges. 
  
 </details>
+
+### Short mnemonic summary
+
+- Payments are called an **underdog** because some important areas, especially **cross-border payments**, have been neglected for a long time.
+
+- Cross-border payments are still often slow, costly, and supported by infrastructure that is not fully modern.
+
+- However, the market is changing. Customers and businesses no longer depend only on banks for **FX (Foreign Exchange)** rates and international payment services.
+
+- New providers now offer more competitive solutions for both **retail** and **B2B (Business-to-Business)** cross-border payments.
+
+- Another important transformation is the use of **blockchain platforms**, which may improve speed, transparency, and efficiency.
+
+![Underdog](1.04.png)
+
+
+
 
 ## 3.Reasons Behind the Growth 
 
