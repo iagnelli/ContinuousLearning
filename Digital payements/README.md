@@ -10,7 +10,7 @@ Il posizionamento da sviluppare è:
 
 Nel contesto VLT/AWP, il pagamento digitale introduce una **doppia catena di controllo**:
 
-- la catena **bancaria/payments**, presidiata da Banca d’Italia, autorità europee, PSP/acquirer e standard di sicurezza come PCI;
+- la catena **bancaria/payments**, presidiata da Banca d’Italia, autorità europee, provider di pagamento (PSP), acquirer e standard di sicurezza come PCI;
 - la catena **gaming regolata**, presidiata da ADM/Sogei e dai laboratori di certificazione.
 
 La differenza chiave è questa:
@@ -20,19 +20,42 @@ La differenza chiave è questa:
 
 **In ambito bancario / pagamenti**
 Il controllo è principalmente in capo a:
-Banca d’Italia, per vigilanza su banche, istituti di pagamento, istituti di moneta elettronica e sistema dei pagamenti.
-EBA / BCE / autorità europee, per framework europeo, PSD2/PSD3/PSR, SCA, instant payments, open banking.
-UIF, per la parte antiriciclaggio e segnalazioni di operazioni sospette. La UIF è collocata presso Banca d’Italia ma opera in autonomia e indipendenza.
+- **Banca d’Italia**, per vigilanza su banche, istituti di pagamento, istituti di moneta elettronica e sistema dei pagamenti.
+- **EBA / BCE / autorità europee**, per framework europeo, PSD2/PSD3/PSR, SCA, instant payments, open banking.
+- **UIF**, per la parte antiriciclaggio e segnalazioni di operazioni sospette. La UIF è collocata presso Banca d’Italia ma opera in autonomia e indipendenza.
 Quindi, se parliamo di pagamento come servizio finanziario, la logica è:
-Banca d’Italia / autorità europee / UIF.
+**Banca d’Italia / autorità europee / UIF.**
 
 **Nel gioco pubblico regolato**
 Il controllo è principalmente in capo a:
-ADM – Agenzia delle Dogane e dei Monopoli, che presidia il settore dei giochi pubblici, tutela gli interessi erariali e governa la legalità del gioco.
-Sogei / sistema di controllo, per la parte tecnica di raccolta, trasmissione e controllo dei dati di gioco.
-Laboratori di certificazione, come GLI, per verifiche tecniche/certificative prima dell’autorizzazione.
-Quindi, se parliamo di giocata, credito sulla macchina, contatori, flussi ADM, VLT/AWP e rendicontazione di gioco, la logica è:
-ADM / Sogei / laboratorio di certificazione.
+**ADM – Agenzia delle Dogane e dei Monopoli**, che presidia il settore dei giochi pubblici, tutela gli interessi erariali e governa la legalità del gioco.
+**Sogei / sistema di controllo**, per la parte tecnica di raccolta, trasmissione e controllo dei dati di gioco.
+**Laboratori di certificazione**, come GLI, per verifiche tecniche/certificative prima dell’autorizzazione.
+Quindi, se parliamo di **giocata, credito sulla macchina, contatori, flussi ADM, VLT/AWP e rendicontazione di gioco**, la logica è:
+**ADM / Sogei / laboratorio di certificazione.**
+
+**PSP = Payment Service Provider**
+- soggetto che fornisce il servizio tecnico/operativo per accettare pagamenti digitali, in pratica **abilita e gestisce tecnicamente il pagamento digitale**
+- provider tecnologico che integra il pagamento digitale sulla macchina VLT o sulla piattaforma da gioco.
+Esempi di attività del PSP:
+- integra il pagamento nel sistema o nel device
+- gestisce il collegamento con i circuiti o altri provider
+- instrada la transazione
+- fornisce API, gateway, dashboard, reportistica
+- gestisce esiti, timeout, refund, errori, riconciliazione tecnica
+
+**Acquirer**
+- soggetto finanziario che permette al merchant/esercente di accettare pagamenti con carta.
+- consente al merchant di accettare carte e ricevere i fondi.
+- soggetto che abilita l’accettazione dei pagamenti carta/contactless e gestisce il rapporto finanziario lato merchant.
+
+Fa da ponte tra: 
+- merchant / concessionario / esercente
+- circuito carta, per esempio Visa o Mastercard
+- banca dell’utente, cioè issuer
+
+In pratica:
+**l’acquirer autorizza e regola l’accettazione dei pagamenti con carta lato merchant.**
 
 </details>
 
