@@ -206,6 +206,22 @@ Payments everywhere. You look into any news, any media, Linkedin news, anyywhere
 
 ## 2.Payments - The Hot Topic 
 
+<detaiils>
+Yes it is. Look into what happened over the period of time.
+- Barter system we have come from 9000 BC and then move on to Precious metal
+- Precious metal 1000 BC 
+- Coins and paper money 650-600 BC
+- Paper money in the European market from 1600
+- Then we have seen the advent of credit and debit cards 1946 - 1966. I was just speaking to one of our colleagues in the Nordics market and he very well we remember utilising the debit card at first time. 
+- And we have seen the advent of E-commerce 1969, which has definitely transformed the payments landscape as well. And forget about all that the biggest transformation that we have seen from last decade. 
+- It's about the contactless and the evolution of fintechs 2007.
+- And the type of payments and the payment method have changed with the introduction of the digital assets like BitCoin in 2029
+- And the evil wallets 2016
+- And the RTP 2017, and the request for payments, and the E IPP and the EB BB, and it's never ending.
+So it is growing at a rapid pace. We have come from the border system to the RTP. Today, and the real time payments, like UK has got the real time payments, the open market of the Fed now which is coming up in the US in 2023.
+There's a huge transformation in the real time payments landscape as well and start stopping anywhere. But when 
+ 
+</details>
 
 ## 3.Reasons Behind the Growth 
 
