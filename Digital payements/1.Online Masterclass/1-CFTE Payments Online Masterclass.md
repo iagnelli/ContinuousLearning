@@ -170,6 +170,20 @@ In italiano: da funzione tecnica a leva strategica
 
 ![Introduction](https://github.com/iagnelli/ContinuousLearning/blob/b19fe9acb1afbced9f17c2ed8b67dcac17cf6e40/Digital%20payements/1.Online%20Masterclass/1.01.png)
 
+<details>
+- payment is the voluntary transfer / offer of money to complete a transaction by an entity
+- we talk about payment regularly, what is changed? It's all about the way we interact with the platform services, systems, our customer behaviour. In the past 5Y ago you were looking for a change in your pocket to make a payment, while now you pull out card/swipe the card, UPI (NFC equivalent in India) is just: wave your phone and payment done; it is growing rapidly    
+UPI makes payments extremely simple: you can pay directly from your phone, almost instantly - UPI rende il pagamento molto semplice: usi il telefono e paghi in modo immediato, senza contanti e senza carta fisica.
+- payment is growing raply, everything in the financial sector evolves and revolves (ruota intorno a). You interact with the payment system, one way or another. Anything and everything you interact with payment system and that's why it is quite crtitical. We are calling it as an underdog -> reason: that is still lacking. What happened over the priod of time the financial services in the system, in the variety of interfaces, we have been quite focused around putting a digital lipstick around digitising channels. But the payment platform and services are still lacking innovation. Yes, there is a quite a lot of innovation happening, still not to the mark.
+</details>
+
+![Payments Everywhere]()
+
+<details>
+Payments everywhere. You look into any news, any media, Linkedin news, anyywhere. You talk about payment platform, payment services for index, and the innovation in the bancking and the platform. And that's not limited just to traditional payments. Now we are seeing quite a lot news around the kryptos, the digital assets, the digital currencies. So what's really happening,why there's so much buzz now than ever before, because it is a requirement of the time, the payment infrastructure neeeds        
+</details>
+
+
 ## 2.Payments - The Hot Topic 
 
 ## 3.Reasons Behind the Growth 
