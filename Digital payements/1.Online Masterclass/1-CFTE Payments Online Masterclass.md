@@ -301,7 +301,7 @@ Data management is also critical, because cross-border payments involve many pay
 
 Finally, transparency and trust are essential. If customers lose trust in a payment service, they may not come back.
 
-![Technological_evolution](1.05.png)
+![Infrastructure](1.05.png)
 
 <details>
 And what we have seen in the now Payment landscape specifically, there is a huge technology evolution. We have gone from the monolithic platform to the modern platform, which is like infrastructure code, it is an art and parcel. If you say all the platforms are, have adopted the cloud tehcnologies, that is not true. But we are looking into the future, where we will be looking at the container as a service, or even payments as a service. So, if you are a service provider, or if you are a financial institution or a bank, you don't need to build services, you can just get the payment as a service from the various service providers. And that's a major value stream. So the whole payment landscape is going though transformation.  
@@ -319,7 +319,7 @@ In the future, banks, financial institutions and service providers may not need 
 
 They will be able to use **PaaS (Payments as a Service)** solutions provided by specialized payment providers.
 
-![Underdog](1.05.png)
+![Evolution](1.06.png)
 
 ### Short mnemonic summary
 
@@ -335,7 +335,7 @@ Fintech companies have grown because they identified specific customer problems 
 
 This applies to both payment platforms and open banking platforms.
 
-![Evolution](1.06.png)
+![Evolution](1.07.png)
 
 
 ### Short mnemonic summary
