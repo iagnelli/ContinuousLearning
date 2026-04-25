@@ -168,6 +168,8 @@ In italiano: da funzione tecnica a leva strategica
 
 ## 1.Understanding Payments
 
+(Introduction)[https://github.com/iagnelli/ContinuousLearning/blob/b19fe9acb1afbced9f17c2ed8b67dcac17cf6e40/Digital%20payements/1.Online%20Masterclass/1.01.png]
+
 ## 2.Payments - The Hot Topic 
 
 ## 3.Reasons Behind the Growth 
