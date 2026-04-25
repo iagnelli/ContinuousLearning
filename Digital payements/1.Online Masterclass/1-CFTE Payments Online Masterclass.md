@@ -386,9 +386,24 @@ Regulatory and compliance uncertainty is one reason why this market is still uns
 ![Evolution](1.09.png)
 
 <details>
- I'm sure you can argue about the SEC is going ahead the ETF for the Bitcoin. Yes, that is happening. And I'm sure that will have a positive impact on the digital assets in the near tearm. So again, it's a very interesting part, which I really want to talk about. When we talk about payments, generally people consider payments as a card transaction, as the retail or the b2b transactions. Let me give you a view on the Citi and that's Citibank. Citibank has got a business unit called treasury and trade solutions. It's a very well known as City TTS. TTS forms 30% of Citi's business in terms of the global revenue. And that takes away 22% of Citi's global profits. So you would imagine a bank, a global bank, that 22% revenue just comes from the Treasury and trade solution business. And that just evolves and revolves around payments, and that is not even your co banking. On the other hand, when we talk about card networks, like Visa, likes of MasterCard, or the other payment card companies or the card network, general assumption is these card networks, their major revenue comes from the transaction, but let me clarify, only 1/3 of their value is from the card foundations. As I said earlier, there are a multiple value streams in payment, and what card networks and the other payment business have realesed is that the market is disrupting. So this already started focusing on the multiple value streams. And an interesting fact, the best data is held by the payment companies.  
+I'm sure you can argue about the SEC is going ahead the ETF for the Bitcoin. Yes, that is happening. And I'm sure that will have a positive impact on the digital assets in the near tearm. So again, it's a very interesting part, which I really want to talk about. When we talk about payments, generally people consider payments as a card transaction, as the retail or the b2b transactions. Let me give you a view on the Citi and that's Citibank. Citibank has got a business unit called treasury and trade solutions. It's a very well known as City TTS. TTS forms 30% of Citi's business in terms of the global revenue. And that takes away 22% of Citi's global profits. So you would imagine a bank, a global bank, that 22% revenue just comes from the Treasury and trade solution business. And that just evolves and revolves around payments, and that is not even your co banking. On the other hand, when we talk about card networks, like Visa, likes of MasterCard, or the other payment card companies or the card network, general assumption is these card networks, their major revenue comes from the transaction, but let me clarify, only 1/3 of their value is from the card foundations. As I said earlier, there are a multiple value streams in payment, and what card networks and the other payment business have realesed is that the market is disrupting. So this already started focusing on the multiple value streams. And an interesting fact, the best data is held by the payment companies.  
 </details>
-I'm sure you can argue
+
+### Short mnemonic summary
+
+Digital assets are becoming more relevant in the payment landscape, especially after the approval discussion around **Bitcoin ETF (Exchange-Traded Fund)** by the **SEC (Securities and Exchange Commission)**.
+
+Payments are often seen only as card, retail, or **B2B (Business-to-Business)** transactions, but the payment business is much broader.
+
+For large banks like Citi, **TTS (Treasury and Trade Solutions)** is a major business area linked to payments, cash management, and trade flows.
+
+This shows that payments are not just a basic banking function: they can represent a significant part of bank revenue and profit.
+
+Card networks such as Visa and Mastercard also do not rely only on card transactions. They are expanding into multiple payment value streams.
+
+Payment companies are powerful because they sit close to transaction flows and hold very valuable data.
+
+![DigitalAssets](1.10.png)
 
 ## 4.Various Payment Methods
 
