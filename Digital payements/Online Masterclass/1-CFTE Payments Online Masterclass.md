@@ -8,13 +8,14 @@ Enroll for free:
 
 ### Payment Online Masterclass — Key Summary
 
-The masterclass is moderated by **Kanishka Joshi**, Analyst at **CFTE — Centre for Finance, Technology and Entrepreneurship**, a global education platform focused on fintech and digital finance.
+The masterclass is moderated by **Kanishka Joshi**, Analyst at **CFTE — Centre for Finance, Technology and Entrepreneurship**, a **global education platform** focused on fintech and digital finance.
 
 CFTE delivers training and courses on key industry trends such as **AI, Open Banking, Entrepreneurship and Fintech**. Its programmes are developed with more than **200 experts** from banks, insurance companies, fintech startups, investors and regulators, following a **“for the industry, by the industry”** approach.
 
 Principal speaker: **Ritesh Jain**, co-founder of **Infynit**, a company focused on humanising the credit card experience and making it more user-centric.
 
-Key message: **payments are one of the fastest-growing sectors in finance**. The scope of payments has expanded beyond traditional card transactions and bank transfers to include **digital payments, QR code payments, cryptocurrencies and CBDCs (Central Bank Digital Currencie)**.
+Key message: **payments are one of the fastest-growing sectors in finance**. 
+Scope of payments: has expanded **beyond traditional card transactions** and **bank transfers** to include **digital payments, QR code payments, cryptocurrencies and CBDCs (Central Bank Digital Currencie)**.
 
 The core idea to remember is:
 
@@ -133,5 +134,37 @@ Third, CFTE gives you a **graduated path**: you can start with a free masterclas
 ## Where did you hear about CFTE courses?*
 ChtGPT 
 </details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
