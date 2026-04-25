@@ -359,11 +359,8 @@ Payments look simple for the customer, but many players operate behind the scene
 The payment ecosystem includes issuers, acquirers, gateways, processors and other providers.
 
 ![Evolution](1.08.png)
-
-## 3.Reasons Behind the Growth 
-
 <details>
- Specifically today, there's one thing which we hear quite a lot. It's about the digital asset and the advent of the digital asset from 2009. And that is bitcoin, Yes, we have seen a significant moment in Bitcoin from early days, until today, which is hovering around $64,000 per Bitcoin. Yes, it's a significantly volatile as well. The price movements are volatile, but it's all due to the regulatory and the compliance as well. The lack of regulatory and compliance is today making this market volatile. 
+Specifically today, there's one thing which we hear quite a lot. It's about the digital asset and the advent of the digital asset from 2009. And that is bitcoin, Yes, we have seen a significant moment in Bitcoin from early days, until today, which is hovering around $64,000 per Bitcoin. Yes, it's a significantly volatile as well. The price movements are volatile, but it's all due to the regulatory and the compliance as well. The lack of regulatory and compliance is today making this market volatile. 
 </details>
 
 ### Short mnemonic summary
@@ -432,6 +429,23 @@ CBDCs may improve digital and cross-border payments.
 The big question is whether banks will remain intermediaries or whether users will connect more directly with central banks.
 
 ![DigitalAssets](1.11.png)
+
+<details>
+So, why central banks are involved with the dicital currency? Central banks are focues on the digital currencies for multiple reasons, they would like to build a payment landscape of very robust infrastructure. They want to avoid the risk of a private payments and the private money creation, which is in flow as of today to the various cryptocurrencies. They would like to create a competitive environment for the innovation payments and basically, they want to meet the need of the digital economy, in terms of the distribution, in terms of the availability, usability of the digital money, as well as they would like to address the declining and the cash in the market. We need to be really careful when we talk about the digital money and the cashless society of the payments. Just we are moving to worse the cashless society. But it's prudent to say, less cash society rather than cash less society. Because the product and services what we are building up today, it's not for the overall population, which is over 7 billion. These are mainly to cater a couple of billion population. So we got to be really careful about the digital exclusion as well. So the central bank, digital currency is going to play a significant role in the building blocks for the cross border payments as well. It's one of the most interesting topics that I love to talk about.  
+</details>
+
+### Short mnemonic summary
+- Central banks are exploring **CBDCs (Central Bank Digital Currencies)** to build a stronger and more modern payment infrastructure.
+- They want to reduce the risks linked to private money, private payment systems, and cryptocurrencies.
+- They also want to support innovation, competition, and the needs of the digital economy.
+- Another reason is the decline of cash, but the goal is not necessarily a fully cashless society.
+- A better expression is **less-cash society**, because many people could still be excluded from fully digital payment systems.
+- CBDCs may also become an important building block for **cross-border payments**.
+
+![DigitalAssets](1.12.png)
+
+
+## 3.Reasons Behind the Growth 
 
 
 ## 4.Various Payment Methods
