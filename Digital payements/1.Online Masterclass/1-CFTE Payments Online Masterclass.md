@@ -321,6 +321,44 @@ They will be able to use **PaaS (Payments as a Service)** solutions provided by 
 
 ![Underdog](1.05.png)
 
+### Short mnemonic summary
+
+The financial sector has changed significantly between **2010** and **2020**.
+
+In 2010, the top financial institutions by **market cap (market capitalization)** were mainly traditional **US (United States)** and Chinese banks.
+
+By 2020, several top players were no longer only traditional banks, but platform-based companies such as **Mastercard, PayPal, and Tencent**.
+
+This shows a clear shift from traditional banking models to platform-based financial ecosystems.
+
+Fintech companies have grown because they identified specific customer problems and solved them better, often serving both sides of the market: consumers and merchants, or users and service providers.
+
+This applies to both payment platforms and open banking platforms.
+
+![Evolution](1.06.png)
+
+
+### Short mnemonic summary
+
+Fintechs are changing the payment landscape in a major way.
+
+Many leading fintech companies, such as **Stripe, Square, Coinbase and Grab**, are strongly connected to payments.
+
+Their business models often revolve around making payments easier for businesses and customers.
+
+Today, a business does not always need to build its own payment infrastructure. It can use payment services from specialized providers.
+
+A simple card payment may look easy from the outside, but many actors work behind the scenes.
+
+These actors include **issuers**, **acquirers**, **payment gateways**, **processors**, and other service providers.
+
+### Ultra-short version
+
+Fintechs are transforming payments by offering ready-to-use payment services.
+Payments look simple for the customer, but many players operate behind the scenes.
+The payment ecosystem includes issuers, acquirers, gateways, processors and other providers.
+
+![Evolution](1.07.png)
 
 ## 3.Reasons Behind the Growth 
 
