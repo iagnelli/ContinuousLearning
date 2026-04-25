@@ -168,7 +168,7 @@ In italiano: da funzione tecnica a leva strategica
 
 ## 1.Understanding Payments
 
-![Introduction](https://github.com/iagnelli/ContinuousLearning/blob/b19fe9acb1afbced9f17c2ed8b67dcac17cf6e40/Digital%20payements/1.Online%20Masterclass/1.01.png)
+![Introduction](1.01.png)
 
 ### Short mnemonic summary
 
@@ -187,7 +187,7 @@ UPI makes payments extremely simple: you can pay directly from your phone, almos
 - payment is growing raply, everything in the financial sector evolves and revolves (ruota intorno a). You interact with the payment system, one way or another. Anything and everything you interact with payment system and that's why it is quite crtitical. We are calling it as an underdog -> reason: that is still lacking. What happened over the priod of time the financial services in the system, in the variety of interfaces, we have been quite focused around putting a digital lipstick around digitising channels. But the payment platform and services are still lacking innovation. Yes, there is a quite a lot of innovation happening, still not to the mark.
 </details>
 
-![Payments Everywhere](https://github.com/iagnelli/ContinuousLearning/blob/b19fe9acb1afbced9f17c2ed8b67dcac17cf6e40/Digital%20payements/1.Online%20Masterclass/1.02.png)
+![Payments Everywhere](1.02.png)
 
 ### Short mnemonic summary
 
