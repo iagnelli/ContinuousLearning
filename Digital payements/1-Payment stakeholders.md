@@ -166,3 +166,61 @@ Esempio pratico VLT:
 7. La piattaforma registra credito, giocata, contatori, accounting e flussi verso ADM/Sogei.
 
 Il punto critico è che il pagamento autorizzato non basta: nel gaming regolato deve essere riconciliato con il credito effettivamente caricato, la giocata, i contatori e il reporting ADM.
+
+
+
+## Digital Payment Flow – Sala VLT
+
+```mermaid
+flowchart TD
+    A["1. Player<br/>Seleziona ricarica credito e avvia il pagamento"] --> B["2. VLT / Payment Device<br/>Raccoglie importo e strumento di pagamento<br/>(carta, contactless, wallet, QR)"]
+    
+    B --> C["3. PSP<br/>Gestisce tecnicamente la transazione<br/>tramite gateway / API / terminal integration"]
+    
+    C --> D["4. Acquirer<br/>Riceve la richiesta lato merchant<br/>e la instrada sul circuito di pagamento"]
+    
+    D --> E["5. Circuito Carta<br/>(es. Visa / Mastercard)<br/>Instrada verso l’issuer"]
+    
+    E --> F["6. Issuer<br/>Autorizza o rifiuta il pagamento<br/>in base a fondi, controlli e sicurezza"]
+    
+    F --> G{"7. Esito transazione"}
+    
+    G -->|Autorizzata| H["8. PSP / Payment Layer<br/>Restituisce esito positivo"]
+    G -->|Rifiutata| X["8b. PSP / Payment Layer<br/>Restituisce esito negativo"]
+    
+    H --> I["9. Piattaforma VLT<br/>Carica il credito sulla macchina / sessione di gioco"]
+    
+    I --> J["10. Sistema di Gioco / Accounting<br/>Registra credito, giocata, contatori e movimento contabile"]
+    
+    J --> K["11. Reporting / Reconciliation<br/>Quadratura tra pagamento, credito caricato e contabilità"]
+    
+    K --> L["12. Flussi regolatori<br/>Invio / allineamento dati verso ADM / Sogei"]
+    
+    X --> Y["9b. VLT / UI Player<br/>Messaggio di KO: pagamento non riuscito, credito non caricato"]
+
+
+
+### Lettura sintetica degli attori
+
+- **Player**: avvia il pagamento
+- **VLT / Payment Device**: punto fisico di interazione
+- **PSP**: abilita e orchestra tecnicamente il pagamento
+- **Acquirer**: abilita l’accettazione lato merchant
+- **Circuito**: instrada la transazione
+- **Issuer**: autorizza o rifiuta
+- **Piattaforma VLT**: carica il credito
+- **Accounting / Reconciliation**: verifica coerenza economica
+- **ADM / Sogei**: presidio regolatorio del gioco
+
+### Punto chiave da evidenziare
+
+Nel tuo contesto il pagamento **non finisce con l’autorizzazione bancaria**.  
+Il punto critico è questo:
+
+> **pagamento autorizzato → credito caricato correttamente → registrazione contabile → riconciliazione → reporting ADM**
+
+Se vuoi, nel prossimo messaggio ti preparo anche la versione **più professionale**, con i blocchi separati in:
+
+- **catena bancaria**
+- **catena gaming**
+- **punto di riconciliazione**
