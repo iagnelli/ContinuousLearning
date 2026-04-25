@@ -68,6 +68,34 @@ Frase per i tuoi appunti:
 
 <details>
 
+**PayPal** è più forte su:
+* pagamenti online/e-commerce;
+* pagamenti internazionali;
+* wallet collegato a carte e conti;
+* servizi per merchant digitali;
+* pagamento a rate.
+
+**Satispay** è più forte su:
+* pagamenti nei negozi fisici;
+* piccoli esercenti;
+* pagamenti via app;
+* trasferimenti tra persone;
+* cashback e servizi locali.
+
+Quindi:
+> **Sono concorrenti quando entrambi permettono al cliente di pagare un merchant tramite app/wallet.**
+
+Ma hanno posizionamenti diversi:
+> **PayPal è più globale e orientata all’online. Satispay è più locale, mobile-first e molto centrata sul pagamento quotidiano nei negozi.**
+
+Frase in inglese per gli appunti:
+> **PayPal and Satispay partially compete in digital payments, but they have different positioning: PayPal is more global and e-commerce oriented, while Satispay is more local, mobile-first and focused on everyday payments at physical merchants.**
+
+</details>
+
+**CFTE Survey**
+<details>
+
 ## What made you choose CFTE?
 
 I chose **CFTE** for three practical reasons tied to **your goal**, not because it is “better in absolute terms.”
